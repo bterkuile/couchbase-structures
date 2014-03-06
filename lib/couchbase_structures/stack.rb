@@ -1,4 +1,4 @@
-require 'couchbase_doc_store'
+require 'couchbase-docstore'
 
 module CouchbaseStructures
   class Stack

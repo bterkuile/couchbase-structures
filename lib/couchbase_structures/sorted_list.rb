@@ -1,4 +1,4 @@
-require 'couchbase_doc_store'
+require 'couchbase-docstore'
 
 # haven't written this one yet... it's a copy of Stack code
 module CouchbaseStructures
